@@ -1,0 +1,17 @@
+C:\Users\henrique.siqueira\Documents\Alura\Exercícios Pessoais\ManipulateJsonTest\ManipulateJsonTest\obj\Debug\net6.0\ManipulateJsonTest.csproj.AssemblyReference.cache
+C:\Users\henrique.siqueira\Documents\Alura\Exercícios Pessoais\ManipulateJsonTest\ManipulateJsonTest\obj\Debug\net6.0\ManipulateJsonTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\henrique.siqueira\Documents\Alura\Exercícios Pessoais\ManipulateJsonTest\ManipulateJsonTest\obj\Debug\net6.0\ManipulateJsonTest.AssemblyInfoInputs.cache
+C:\Users\henrique.siqueira\Documents\Alura\Exercícios Pessoais\ManipulateJsonTest\ManipulateJsonTest\obj\Debug\net6.0\ManipulateJsonTest.AssemblyInfo.cs
+C:\Users\henrique.siqueira\Documents\Alura\Exercícios Pessoais\ManipulateJsonTest\ManipulateJsonTest\obj\Debug\net6.0\ManipulateJsonTest.csproj.CoreCompileInputs.cache
+C:\Users\henrique.siqueira\Documents\Alura\Exercícios Pessoais\ManipulateJsonTest\ManipulateJsonTest\bin\Debug\net6.0\ManipulateJsonTest.exe
+C:\Users\henrique.siqueira\Documents\Alura\Exercícios Pessoais\ManipulateJsonTest\ManipulateJsonTest\bin\Debug\net6.0\ManipulateJsonTest.deps.json
+C:\Users\henrique.siqueira\Documents\Alura\Exercícios Pessoais\ManipulateJsonTest\ManipulateJsonTest\bin\Debug\net6.0\ManipulateJsonTest.runtimeconfig.json
+C:\Users\henrique.siqueira\Documents\Alura\Exercícios Pessoais\ManipulateJsonTest\ManipulateJsonTest\bin\Debug\net6.0\ManipulateJsonTest.dll
+C:\Users\henrique.siqueira\Documents\Alura\Exercícios Pessoais\ManipulateJsonTest\ManipulateJsonTest\bin\Debug\net6.0\ManipulateJsonTest.pdb
+C:\Users\henrique.siqueira\Documents\Alura\Exercícios Pessoais\ManipulateJsonTest\ManipulateJsonTest\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\henrique.siqueira\Documents\Alura\Exercícios Pessoais\ManipulateJsonTest\ManipulateJsonTest\obj\Debug\net6.0\ManipulateJsonTest.csproj.CopyComplete
+C:\Users\henrique.siqueira\Documents\Alura\Exercícios Pessoais\ManipulateJsonTest\ManipulateJsonTest\obj\Debug\net6.0\ManipulateJsonTest.dll
+C:\Users\henrique.siqueira\Documents\Alura\Exercícios Pessoais\ManipulateJsonTest\ManipulateJsonTest\obj\Debug\net6.0\refint\ManipulateJsonTest.dll
+C:\Users\henrique.siqueira\Documents\Alura\Exercícios Pessoais\ManipulateJsonTest\ManipulateJsonTest\obj\Debug\net6.0\ManipulateJsonTest.pdb
+C:\Users\henrique.siqueira\Documents\Alura\Exercícios Pessoais\ManipulateJsonTest\ManipulateJsonTest\obj\Debug\net6.0\ManipulateJsonTest.genruntimeconfig.cache
+C:\Users\henrique.siqueira\Documents\Alura\Exercícios Pessoais\ManipulateJsonTest\ManipulateJsonTest\obj\Debug\net6.0\ref\ManipulateJsonTest.dll

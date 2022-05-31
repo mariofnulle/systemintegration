@@ -1,0 +1,17 @@
+C:\Users\henrique.siqueira\Documents\Alura\Exercícios Pessoais\ManipulateJsonTest\ManipulateJsonTest\obj\Debug\net6.0\SystemIntegrationSimulation.csproj.AssemblyReference.cache
+C:\Users\henrique.siqueira\Documents\Alura\Exercícios Pessoais\ManipulateJsonTest\ManipulateJsonTest\obj\Debug\net6.0\SystemIntegrationSimulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\henrique.siqueira\Documents\Alura\Exercícios Pessoais\ManipulateJsonTest\ManipulateJsonTest\obj\Debug\net6.0\SystemIntegrationSimulation.AssemblyInfoInputs.cache
+C:\Users\henrique.siqueira\Documents\Alura\Exercícios Pessoais\ManipulateJsonTest\ManipulateJsonTest\obj\Debug\net6.0\SystemIntegrationSimulation.AssemblyInfo.cs
+C:\Users\henrique.siqueira\Documents\Alura\Exercícios Pessoais\ManipulateJsonTest\ManipulateJsonTest\obj\Debug\net6.0\SystemIntegrationSimulation.csproj.CoreCompileInputs.cache
+C:\Users\henrique.siqueira\Documents\Alura\Exercícios Pessoais\ManipulateJsonTest\ManipulateJsonTest\bin\Debug\net6.0\SystemIntegrationSimulation.exe
+C:\Users\henrique.siqueira\Documents\Alura\Exercícios Pessoais\ManipulateJsonTest\ManipulateJsonTest\bin\Debug\net6.0\SystemIntegrationSimulation.deps.json
+C:\Users\henrique.siqueira\Documents\Alura\Exercícios Pessoais\ManipulateJsonTest\ManipulateJsonTest\bin\Debug\net6.0\SystemIntegrationSimulation.runtimeconfig.json
+C:\Users\henrique.siqueira\Documents\Alura\Exercícios Pessoais\ManipulateJsonTest\ManipulateJsonTest\bin\Debug\net6.0\SystemIntegrationSimulation.dll
+C:\Users\henrique.siqueira\Documents\Alura\Exercícios Pessoais\ManipulateJsonTest\ManipulateJsonTest\bin\Debug\net6.0\SystemIntegrationSimulation.pdb
+C:\Users\henrique.siqueira\Documents\Alura\Exercícios Pessoais\ManipulateJsonTest\ManipulateJsonTest\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\henrique.siqueira\Documents\Alura\Exercícios Pessoais\ManipulateJsonTest\ManipulateJsonTest\obj\Debug\net6.0\SystemIntegrationSimulation.csproj.CopyComplete
+C:\Users\henrique.siqueira\Documents\Alura\Exercícios Pessoais\ManipulateJsonTest\ManipulateJsonTest\obj\Debug\net6.0\SystemIntegrationSimulation.dll
+C:\Users\henrique.siqueira\Documents\Alura\Exercícios Pessoais\ManipulateJsonTest\ManipulateJsonTest\obj\Debug\net6.0\refint\SystemIntegrationSimulation.dll
+C:\Users\henrique.siqueira\Documents\Alura\Exercícios Pessoais\ManipulateJsonTest\ManipulateJsonTest\obj\Debug\net6.0\SystemIntegrationSimulation.pdb
+C:\Users\henrique.siqueira\Documents\Alura\Exercícios Pessoais\ManipulateJsonTest\ManipulateJsonTest\obj\Debug\net6.0\SystemIntegrationSimulation.genruntimeconfig.cache
+C:\Users\henrique.siqueira\Documents\Alura\Exercícios Pessoais\ManipulateJsonTest\ManipulateJsonTest\obj\Debug\net6.0\ref\SystemIntegrationSimulation.dll
